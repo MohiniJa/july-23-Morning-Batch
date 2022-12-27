@@ -19,6 +19,8 @@ public class MvnNeostoclksSignInPg
 	{
 		MvnUtilityClass.wait(driver, 1000);
 		MbNoField.sendKeys(MbNum);
+		
+		
 	}
 	public void clickOnSignInButton(WebDriver driver)
 	{

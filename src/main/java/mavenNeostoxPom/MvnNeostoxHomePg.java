@@ -25,6 +25,9 @@ public class MvnNeostoxHomePg
 			MvnUtilityClass.scollIntoView(driver, closeButton);
 			MvnUtilityClass.wait(driver, 1000);
 			closeButton.click();
+			
+			
+		
 		}
 		else
 		{

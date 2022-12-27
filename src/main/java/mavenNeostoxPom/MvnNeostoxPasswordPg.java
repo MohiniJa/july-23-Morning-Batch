@@ -10,9 +10,6 @@ public class MvnNeostoxPasswordPg
 	{
 		@FindBy(id="txt_accesspin")private WebElement PWDField;
 		@FindBy(id="lnk_submitaccesspin")private WebElement submitButton;
-
-
-	
 public MvnNeostoxPasswordPg(WebDriver driver)
 {
 	PageFactory.initElements(driver, this);

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T20:02:46 IST" name="Default suite" finished-at="2022-12-27T20:04:04 IST" duration-ms="78240">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T20:02:46 IST" name="Default test" finished-at="2022-12-27T20:04:04 IST" duration-ms="78240">
+      <class name="mvnNeostoxTest.MvnneostoxValidation">
+        <test-method is-config="true" signature="launchNeostox()[pri:0, instance:mvnNeostoxTest.MvnneostoxValidation@4fb61f4a]" started-at="2022-12-27T20:02:46 IST" name="launchNeostox" finished-at="2022-12-27T20:03:18 IST" duration-ms="31473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNeostox -->
+        <test-method is-config="true" signature="signInToNeostox()[pri:0, instance:mvnNeostoxTest.MvnneostoxValidation@4fb61f4a]" started-at="2022-12-27T20:03:18 IST" name="signInToNeostox" finished-at="2022-12-27T20:03:57 IST" duration-ms="39474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInToNeostox -->
+        <test-method signature="validateUserName()[pri:0, instance:mvnNeostoxTest.MvnneostoxValidation@4fb61f4a]" started-at="2022-12-27T20:03:57 IST" name="validateUserName" finished-at="2022-12-27T20:04:00 IST" duration-ms="3156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:mvnNeostoxTest.MvnneostoxValidation@4fb61f4a]" started-at="2022-12-27T20:04:00 IST" name="afterMethod" finished-at="2022-12-27T20:04:01 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:mvnNeostoxTest.MvnneostoxValidation@4fb61f4a]" started-at="2022-12-27T20:04:01 IST" name="afterClass" finished-at="2022-12-27T20:04:04 IST" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mvnNeostoxTest.MvnneostoxValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
